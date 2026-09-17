@@ -137,7 +137,7 @@ motto: "Automate Everything."
 ### ⚡ MISSION LOG — Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🛠️ Run **Actions → update-gh-activity** to populate live mission log
+1. 💪 Opened PR [#35](https://github.com/nothariharan/continuum/pull/35) in [nothariharan/continuum](https://github.com/nothariharan/continuum)
 <!--END_SECTION:activity-->
 
 <br/>
